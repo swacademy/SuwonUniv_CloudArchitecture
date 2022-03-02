@@ -8,7 +8,7 @@
     - Cloud Computing 권장 Architecture 원리 및 모범 사례를 기반으로 Architecture 관련 의사 결정을 내리는 방법
     - AWS Cloud Computing Service를 활용하여 확장성, 안정성 및 고가용성을 갖춘 Infrastructure를 구축하는 방법
     - Microservice 생성 및 Serverless Architecture 구축
-4. 교재 및 참고문헌
+4. 교재
    - 참고도서 교재명 : AWS 공인 솔루션스 아키텍트 스터디 가이드 - 어소시에이트 3/e http://www.yes24.com/Product/Goods/106190072
    - 참고도서 출판사 : 에이콘 출판사
    - 참고도서 저자 및 역자 : 벤 파이퍼, 데이비드 클린턴 저/동준상 역<br />

@@ -12,7 +12,7 @@
   - 참고도서 교재명 : AWS 공인 솔루션스 아키텍트 스터디 가이드 - 어소시에이트 3/e
   - 참고도서 출판사 : 에이콘 출판사
   - 참고도서 저자 및 역자 : 벤 파이퍼, 데이비드 클린턴 저/동준상 역
-  - <img src="http://image.yes24.com/goods/106190072/XL">
+  - <img src="https://image.aladin.co.kr/product/28676/98/cover500/k822836160_1.jpg">
 6. 강의실
 7. 커리큘럼
 

@@ -3,7 +3,7 @@
 
 1. Lecture Method : 강의식(이론) & 실습
 2. Course Description
-    - AWS Cloud Service를 이해하고 고가용성, 내결함성, 비용효율성, 운영효율성, 보안을 고려하여 Workload에 맞는 Architecture 설계방법을 학습힌다.
+    - AWS Cloud Service를 이해하고 고가용성, 내결함성, 비용효율성, 운영효율성, 보안을 고려하여 Workload에 맞는 Architecture 설계방법을 학습한다.
 3. Cource Objectives
     - Cloud Computing 권장 Architecture 원리 및 모범 사례를 기반으로 Architecture 관련 의사 결정을 내리는 방법
     - AWS Cloud Computing Service를 활용하여 확장성, 안정성 및 고가용성을 갖춘 Infrastructure를 구축하는 방법
@@ -14,7 +14,7 @@
    - 참고도서 저자 및 역자 : 벤 파이퍼, 데이비드 클린턴 저/동준상 역<br />
   ![참고도서](https://image.aladin.co.kr/product/28676/98/cover500/k822836160_1.jpg)
 5. Time & Place : Mon. 8 ~ 10 Class(16:30 ~ 19:00) / vILT(Zoom) or Offline(미래혁신관 112)
-6. Grading Plicy
+6. Grading Policy
     - Weekly Journaling Report : 15%
     - Attendance : 25%
     - Midterm Examination : 25%

@@ -1,5 +1,5 @@
 # suwonuniv_cloud_architect
-### 수원대학교 클라우드 아키텍트 구조
+### 수원대학교 클라우드 아키텍처 구조
 
 1. Lecture Method : 강의식(이론) & 실습
 2. Course Description

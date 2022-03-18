@@ -1,0 +1,8 @@
+#!/bin/bash
+sudo apt update
+sudo apt install -y apache2
+sudo a2enmod ssl
+sudo a2ensite default-ssl.conf
+sudo systemctl reload apache2
+sudo mv /var/www/html/index.html /var/www/html/index.bak
+sudo bash -c 'echo "<html><h1>Hello, AWS World!</h1></html>" > /var/www/html/index.html'

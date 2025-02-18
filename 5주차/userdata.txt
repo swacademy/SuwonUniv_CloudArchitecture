@@ -1,9 +1,0 @@
-#!/bin/sh
-yum -y install httpd php mysql php-mysql
-chkconfig httpd on
-systemctl enable httpd.service
-systemctl start httpd.service
-cd /tmp
-wget https://lab-5week-bucket.s3.ap-northeast-2.amazonaws.com/autoscaling-source.zip
-unzip autoscaling-source.zip
-sudo mv *.php /var/www/html

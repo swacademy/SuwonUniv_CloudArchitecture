@@ -8,11 +8,11 @@
     - AWS Cloud Computing Service를 활용하여 확장성, 안정성 및 고가용성을 갖춘 Infrastructure를 구축하는 방법
     - Microservice 생성 및 Serverless Architecture 구축
 4. 교재
-   - 참고도서 교재명 : AWS 공인 솔루션스 아키텍트 스터디 가이드 - 어소시에이트 3/e http://www.yes24.com/Product/Goods/106190072
+   - 참고도서 교재명 : AWS 공인 솔루션스 아키텍트 스터디 가이드 - 어소시에이트 4/e https://www.yes24.com/Product/Goods/118841433
    - 참고도서 출판사 : 에이콘 출판사
    - 참고도서 저자 및 역자 : 벤 파이퍼, 데이비드 클린턴 저/동준상 역<br />
-  ![참고도서](https://image.aladin.co.kr/product/28676/98/cover500/k822836160_1.jpg)
-5. Time & Place : Mon. 8 ~ 10 Class(16:30 ~ 19:00) / vILT(Zoom) or Offline(미래혁신관 112)
+  ![참고도서](https://image.aladin.co.kr/product/31653/11/cover500/k572833572_1.jpg)
+5. Time & Place : Mon. 4 ~ 6 Class(: ~ :) / vILT(Zoom) or Offline(미래혁신관 311)
 6. Grading Policy
     - Weekly Journaling Report : 15%
     - Attendance : 25%

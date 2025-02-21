@@ -12,7 +12,7 @@
    - 참고도서 출판사 : 에이콘 출판사
    - 참고도서 저자 및 역자 : 벤 파이퍼, 데이비드 클린턴 저/동준상 역<br />
   ![참고도서](https://image.aladin.co.kr/product/31653/11/cover500/k572833572_1.jpg)
-5. Time & Place : Mon. 4 ~ 6 Class(12🕧 ~ 15:20) / vILT(Zoom) or Offline(미래혁신관 311)
+5. Time & Place : Mon. 4 ~ 6 Class(12:30 ~ 15:20) / vILT(Zoom) or Offline(미래혁신관 311)
 6. Grading Policy
     - Weekly Journaling Report : 15%
     - Attendance : 25%

@@ -45,7 +45,7 @@
     - 가와바타 고헤이, 기쿠치 다카아키, 마나카 도시키 저/김모세 역, "시작! AWS", 한빛미디어, 2024
     - 김원일, 서종호, 김석필, "AWS 교과서", 길벗, 2023
     - 우에노 후미아키,코바야시 쿄헤이,오자와 코스케,다카나시 토모유키/양현,김민호 역, "그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스", 위키북스, 2023
-    - 복종순, “클라우드 컴퓨팅의 이해”, https://github.com/swacademy/suwonunivcloudcomputing, 2021
+    - 복종순, “클라우드 컴퓨팅의 이해”, https://github.com/swacademy/suwonunivcloudcomputing, 2025
     - 김유경, “모두를 위한 클라우드 컴퓨팅 입문”, https://edu.goorm.io/lecture/18575/%EB%AA%A8%EB%91%90%EB%A5%BC%EC%9C%84%ED%95%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%9E%85%EB%AC%B8
     - 하야시 마사유키 저/서재원 역, “그림으로 배우는 클라우드 Cloud Computing 2nd Edition”, (주)영진닷컴, 2021
     - 차정도, “Amazon VPC 네트워킹 원리와 보안”, 에이콘출판사, 2022

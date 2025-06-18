@@ -27,3 +27,6 @@ Permission denied (publickey).</code></pre>
 icacls.exe myec2.pem /reset
 icacls.exe myec2.pem /grant:r %username%:(R)
 icacls.exe myec2.pem /inheritance:r</code></pre>
+
+
+[출처] https://dabid.tistory.com/11
